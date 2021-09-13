@@ -4,7 +4,9 @@ A simple shooter game made in UE4
 For the FULL UE4 project click here:
 
 This project is based on the Simple Shooter section of this Udemy course: https://www.udemy.com/course/unrealcourse/ with added functionalities and improvements
+
 To check the game on YT: https://www.youtube.com/channel/UC2nA6A5zbWxZejZ49RrNVEQ
+
 To check my other projects: https://www.alessandrorossigamedev.com/portfolio
 
 Things included in this project from the ORIGINAL:
